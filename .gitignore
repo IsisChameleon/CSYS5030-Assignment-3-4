@@ -1,0 +1,8 @@
+*.png
+*.gz
+*.pt
+*.csv
+*.pdf
+*.pkl
+cifar*/*
+lightning_logs/*
